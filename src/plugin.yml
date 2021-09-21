@@ -1,0 +1,10 @@
+name: TowerDefense
+version: 1.0.0
+main: fr.naruse.towerdefense.main.TowerDefensePlugin
+api-version: 1.13
+author: Naruse
+depend:
+  - ServerManager
+commands:
+  td:
+  shop:
